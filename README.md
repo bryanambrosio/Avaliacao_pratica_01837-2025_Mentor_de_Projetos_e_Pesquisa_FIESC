@@ -9,7 +9,7 @@ Cargo: Mentor de Projetos e Pesquisa
 
 # Demonstração do Projeto
 
-Clique na imagem abaixo para assistir ao vídeo da apresentação no YouTube (powered by NotebookLM):
+Clique no link abaixo para assistir ao vídeo da apresentação no YouTube (powered by NotebookLM):
 
 [![Assista ao vídeo](https://img.youtube.com/vi/3FwqcLI_4Ao/maxresdefault.jpg)](https://www.youtube.com/watch?v=3FwqcLI_4Ao)
 
