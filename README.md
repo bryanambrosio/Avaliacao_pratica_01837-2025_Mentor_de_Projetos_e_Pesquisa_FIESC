@@ -6,6 +6,13 @@ Cargo: Mentor de Projetos e Pesquisa
 ### Autor: Bryan Ambrósio  
 ### Agosto de 2025
 
+
+# Demonstração do Projeto
+
+Clique na imagem abaixo para assistir ao vídeo da apresentação no YouTube:
+
+[![Assista ao vídeo](https://www.youtube.com/watch?v=3FwqcLI_4Ao)
+
 Este repositório contém um pipeline completo para conversão, preparação, análise e modelagem de dados de sensores.  
 Os scripts devem ser executados **nesta ordem**:  
 
