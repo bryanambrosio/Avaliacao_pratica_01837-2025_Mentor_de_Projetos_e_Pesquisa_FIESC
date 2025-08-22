@@ -9,9 +9,9 @@ Cargo: Mentor de Projetos e Pesquisa
 
 # Demonstração do Projeto
 
-Clique no link abaixo para assistir ao vídeo da apresentação no YouTube (powered by NotebookLM):
+Clique na imagem abaixo para assistir ao vídeo da apresentação no YouTube (powered by NotebookLM):
 
-[![Assista ao vídeo](https://www.youtube.com/watch?v=3FwqcLI_4Ao)
+[![Assista ao vídeo](https://img.youtube.com/vi/3FwqcLI_4Ao/maxresdefault.jpg)](https://www.youtube.com/watch?v=3FwqcLI_4Ao)
 
 Este repositório contém um pipeline completo para conversão, preparação, análise e modelagem de dados de sensores.  
 Os scripts devem ser executados **nesta ordem**:  
